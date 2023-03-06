@@ -1,6 +1,4 @@
-# Real Time Chat Application
-
-A real-time chat application. Another fun side project :)
+# Real Time Chat Application.
 
 
 ## Technologies Used
